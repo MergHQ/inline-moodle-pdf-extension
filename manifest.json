@@ -9,7 +9,8 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "https://moodle.helsinki.fi/*"
+    "https://moodle.helsinki.fi/*",
+    "https://mooc.helsinki.fi/*"
   ],
   "icons": {
     "16": "icon16.png",

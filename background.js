@@ -55,6 +55,6 @@ chrome.webRequest.onHeadersReceived.addListener(
 
     return { responseHeaders: newHeaders };
   },
-  { urls: ["https://moodle.helsinki.fi/*"] },
+  { urls: ["https://moodle.helsinki.fi/*", "https://mooc.helsinki.fi/*"] },
   ["blocking", "responseHeaders"]
 );
