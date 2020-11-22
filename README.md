@@ -1,6 +1,6 @@
 # inline-moodle-pdf-extension
 
-Chrome extension which makes the University of Helsinki Moodle show PDF downloads in a new tab instead of downloading them.
+Chrome extension which makes the University of Helsinki Moodle & Mooc platform show PDF downloads in a new tab instead of downloading them.
 
 [**View on Chrome Web Store →**](https://chrome.google.com/webstore/detail/inline-pdfs-for-uh-moodle/ilddijpognoadbfmlgnkgdogdciogmjn)
 

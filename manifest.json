@@ -1,7 +1,7 @@
 {
   "name": "Inline PDFs for UH Moodle",
   "version": "1.19.1",
-  "description": "View University of Helsinki Moodle PDF downloads in Chrome instead of downloading to disk",
+  "description": "View University of Helsinki Moodle and Mooc PDF downloads in Chrome instead of downloading to disk",
   "manifest_version": 2,
   "background": {
     "scripts": ["background.js"]
